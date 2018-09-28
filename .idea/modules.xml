@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/analyse/adverstat/adverstat.iml" filepath="$PROJECT_DIR$/analyse/adverstat/adverstat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analyse/analyse.iml" filepath="$PROJECT_DIR$/analyse/analyse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commerce_data_analysis_system.iml" filepath="$PROJECT_DIR$/commerce_data_analysis_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mock/mock.iml" filepath="$PROJECT_DIR$/mock/mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analyse/pagestat/pagestat.iml" filepath="$PROJECT_DIR$/analyse/pagestat/pagestat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analyse/session/session.iml" filepath="$PROJECT_DIR$/analyse/session/session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analyse/top3productperarea/top3productperarea.iml" filepath="$PROJECT_DIR$/analyse/top3productperarea/top3productperarea.iml" />
+    </modules>
+  </component>
+</project>
